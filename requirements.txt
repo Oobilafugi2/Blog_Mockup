@@ -1,0 +1,8 @@
+Collecting SQLAlchemy
+  Using cached SQLAlchemy-2.0.5.post1-cp310-cp310-win_amd64.whl (2.0 MB)
+Collecting greenlet!=0.4.17
+  Using cached greenlet-2.0.2-cp310-cp310-win_amd64.whl (192 kB)
+Collecting typing-extensions>=4.2.0
+  Using cached typing_extensions-4.5.0-py3-none-any.whl (27 kB)
+Installing collected packages: typing-extensions, greenlet, SQLAlchemy
+Successfully installed SQLAlchemy-2.0.5.post1 greenlet-2.0.2 typing-extensions-4.5.0
